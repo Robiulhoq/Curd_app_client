@@ -1,0 +1,28 @@
+.addUser_container{
+    margin-top: 100px;
+}
+.addUser_container input{
+    margin: 20px;
+}
+.save_button{
+    margin-top: 20px;
+    
+    height: 40px;
+}
+.input_container{
+    width: 100%;
+}
+.table_container{
+    background-color: white;
+    margin-top: 20px;
+}
+.thead_container{
+    background-color: black;
+    color: white;
+}
+.css-serial {
+    counter-reset: serial-number; 
+  }
+
+
+  ;

@@ -1,0 +1,4 @@
+.css-serial td:first-child:before {
+    counter-increment: serial-number; 
+    content: counter(serial-number);  
+  }
